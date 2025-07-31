@@ -19,6 +19,6 @@ A modern full-stack web application for personal journaling — featuring secure
 ##  Links
 
 -  Source Code : [GitHub Repository](https://github.com/kumarsaurabh1817/Journal_Application)  
-- Live App : [https://realreflectt.netlify.app/](https://journal-application.vercel.app)
+- Live App : [https://realreflectt.netlify.app/](https://realreflectt.netlify.app/)
 
 
