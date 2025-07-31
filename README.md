@@ -1,22 +1,22 @@
-# Full Stack Journal App with Next JS, React, Tailwind CSS, Prisma, Neon, Clerk, ArcJet, Shadcn UI Tutorial 🔥🔥
-## https://youtu.be/cYGAPVUtQ-U
+# Journal Application 
+A modern full-stack web application for personal journaling — featuring secure user authentication, rich entry creation, and live deployment.
 
-![image](https://github.com/user-attachments/assets/8e4fbd95-40af-4496-a319-dd74d3954814)
+## Features
 
-### Make sure to create a `.env` file with following variables -
+- **User Authentication**  
+  Enable users to sign up, log in, and manage their journal entries securely with providers such as Clerk or Supabase Auth.
 
-```
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
+- **Journal Entries**  
+  Create, view, edit, and delete personal journal entries with title, tags, mood, and rich text/Markdown support.
 
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/dashboard
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/dashboard
+- **Entry Management**  
+  Organize entries by date, mood or tag. Browse a categorized timeline or search across your entries.
 
-DATABASE_URL=
+- **Responsive UI**  
+  Built using React (Next.js) and Tailwind CSS or Shadcn UI — works flawlessly across mobile and desktop.
 
-PIXABAY_API_KEY=
+## 🔗 Links
 
-ARCJET_KEY=
-```
+- **Source Code**: [GitHub Repository](https://github.com/kumarsaurabh1817/Journal_Application)  
+- **Live App**: [https://realreflectt.netlify.app/](https://journal-application.vercel.app)
+
