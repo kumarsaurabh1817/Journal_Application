@@ -1,7 +1,8 @@
 # Journal Application 
+
 A modern full-stack web application for personal journaling — featuring secure user authentication, rich entry creation, and live deployment.
 
-## Features
+##  Features
 
 - **User Authentication**  
   Enable users to sign up, log in, and manage their journal entries securely with providers such as Clerk or Supabase Auth.
@@ -15,8 +16,9 @@ A modern full-stack web application for personal journaling — featuring secure
 - **Responsive UI**  
   Built using React (Next.js) and Tailwind CSS or Shadcn UI — works flawlessly across mobile and desktop.
 
-## 🔗 Links
+##  Links
 
-- **Source Code**: [GitHub Repository](https://github.com/kumarsaurabh1817/Journal_Application)  
-- **Live App**: [https://realreflectt.netlify.app/](https://journal-application.vercel.app)
+-  Source Code : [GitHub Repository](https://github.com/kumarsaurabh1817/Journal_Application)  
+- Live App : [https://realreflectt.netlify.app/](https://journal-application.vercel.app)
+
 
